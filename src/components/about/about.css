@@ -1,3 +1,9 @@
+#about {
+	background: var(--color-bg);
+	padding: 0;
+	margin-top: 6rem;
+}
+
 .about_container {
 	display: grid;
 	grid-template-columns: 35% 50%;
@@ -68,6 +74,12 @@
 
 /* =========== Media Queries (medium devices) ===============*/
 @media screen and (max-width: 1024px) {
+	#about {
+		background: var(--color-bg);
+		padding: 0;
+		margin-top: 6rem;
+	}
+
 	.about_container {
 		grid-template-columns: 1fr;
 		gap: 0;
@@ -83,9 +95,16 @@
 
 /* =========== Media Queries (small devices) ===============*/
 @media screen and (max-width: 600px) {
+	#about {
+		background: var(--color-bg);
+		padding: 0;
+		margin-top: 1rem;
+	}
+
 	.about_me {
 		width: 65%;
-		margin: 0auto 3rem;
+		margin-top: 4rem;
+		margin-bottom: 6rem;
 	}
 	.about_cards {
 		grid-template-columns: 1fr 1fr;
