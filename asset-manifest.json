@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.63df9d47.css",
+    "main.js": "/my-app/static/js/main.b54035c8.js",
+    "static/media/Me.jpg": "/my-app/static/media/Me.c094e9b128d66cf5faab.jpg",
+    "static/media/Hasan_CV.pdf": "/my-app/static/media/Hasan_CV.1f7b0eee7d89e4e58d96.pdf",
+    "index.html": "/my-app/index.html",
+    "main.63df9d47.css.map": "/my-app/static/css/main.63df9d47.css.map",
+    "main.b54035c8.js.map": "/my-app/static/js/main.b54035c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63df9d47.css",
+    "static/js/main.b54035c8.js"
+  ]
+}
